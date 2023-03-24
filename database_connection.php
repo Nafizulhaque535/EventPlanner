@@ -1,5 +1,5 @@
 <?php
-//creaste user profile in phpMyAdmin using this
+//create user profile in phpMyAdmin using this
 $servername = "localhost";
 $username = "eventplanner";
 $password = "eventplanner123";
